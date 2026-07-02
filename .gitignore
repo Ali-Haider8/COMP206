@@ -28,3 +28,41 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+#out/
+*.ipr
+*.iws
+
+# Java / Maven / Gradle
+target/
+build/
+.gradle/
+.mvn/
+
+# Logs
+*.log
+
+# OS files
+#.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# JetBrains
+# Avoid committing workspace.xml and other volatile configs
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/shelf/
+
+# Cache
+.idea/caches/
+.idea/modules.xml
+.idea/inspectionProfiles/
