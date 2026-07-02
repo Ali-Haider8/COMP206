@@ -32,11 +32,9 @@
 
 
 ### 🌍 Websites
-- Data Structures in Java — Great Learning  
-  https://www.mygreatlearning.com/blog/data-structures-using-java/
+- [Data Structures in Java — Great Learning](https://www.mygreatlearning.com/blog/data-structures-using-java/)
 
-- DSA using Java — TutorialsPoint  
-  https://www.tutorialspoint.com/dsa_using_java/index.htm
+- [DSA using Java — TutorialsPoint](https://www.tutorialspoint.com/dsa_using_java/index.htm)
 
 ### ▶️ YouTube Playlists
 - [Youtube Playlist - Batool](https://youtube.com/playlist?list=PL83yz61_Sp1r-jDPEN3XmX9EzTzAaVU2f&si=t1HVY2ZHzURkkTuF)
