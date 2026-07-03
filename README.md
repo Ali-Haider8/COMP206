@@ -48,8 +48,8 @@
 - [YouTube Playlist - UniZoon](https://youtube.com/playlist?list=PLcHCoeV85dnykuz481euQnKVyg6SWDz0q&si=ZX5tmhrOPfnTrpUw)
 - [YouTube Playlist - Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
 - [YouTube Video - Ghareeb Elshaikh](https://youtube.com/playlist?list=PLhiFu-f80eo--m0YnPpiiWGd4mq-4V2rY&si=nmeMqc4pNtZ4YgH9)
-- [YouTube Video - Iraq Z Engineers](https://youtube.com/playlist?list=PL45AaZ_y4I9hK6ockC_gFDTCxGh7vF4aq&si=1_mjN8WO3WaTQTf2)
-- [YouTube Video - Iraq Z Engineers2](https://youtube.com/playlist?list=PL45AaZ_y4I9hLRhhaV3OGxJXF1KXlWIW2&si=eOdc1FjlHdrXWXdN)
+- [YouTube Playlist - Iraq Z Engineers](https://youtube.com/playlist?list=PL45AaZ_y4I9hK6ockC_gFDTCxGh7vF4aq&si=1_mjN8WO3WaTQTf2)
+- [YouTube Playlist - Iraq Z Engineers](https://youtube.com/playlist?list=PL45AaZ_y4I9hLRhhaV3OGxJXF1KXlWIW2&si=eOdc1FjlHdrXWXdN)
 
 ### 🕸️ WebPages
 
