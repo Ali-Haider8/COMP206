@@ -51,7 +51,7 @@
 - [YouTube Playlist - Iraq Z Engineers](https://youtube.com/playlist?list=PL45AaZ_y4I9hK6ockC_gFDTCxGh7vF4aq&si=1_mjN8WO3WaTQTf2)
 - [YouTube Playlist - Iraq Z Engineers](https://youtube.com/playlist?list=PL45AaZ_y4I9hLRhhaV3OGxJXF1KXlWIW2&si=eOdc1FjlHdrXWXdN)
 
-### 🕸️ WebPages
+### 🕸️ Web Pages
 
 - [Hassoub Academy - Data Structures for Programmers 1.0.0 (book)](https://academy.hsoub.com/files/38-%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D9%85%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D9%86/)
 - [Hassoub Academy - Data Structures](https://academy.hsoub.com/programming/general/%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-data-structures/)
