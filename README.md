@@ -59,3 +59,5 @@
 ### 💬 Community
 
 - [Telegram: Batool](https://t.me/batoolhataf/308)
+- [Telegram: Hamzmz](https://t.me/CP_LEC/2467)
+- [Telegram: Hamzmz](https://t.me/CP_LEC/2402)
