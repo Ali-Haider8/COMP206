@@ -50,6 +50,8 @@
 - [YouTube Video - Ghareeb Elshaikh](https://youtube.com/playlist?list=PLhiFu-f80eo--m0YnPpiiWGd4mq-4V2rY&si=nmeMqc4pNtZ4YgH9)
 - [YouTube Playlist - Iraq Z Engineers](https://youtube.com/playlist?list=PL45AaZ_y4I9hK6ockC_gFDTCxGh7vF4aq&si=1_mjN8WO3WaTQTf2)
 - [YouTube Playlist - Iraq Z Engineers](https://youtube.com/playlist?list=PL45AaZ_y4I9hLRhhaV3OGxJXF1KXlWIW2&si=eOdc1FjlHdrXWXdN)
+- [YouTube Playlist - Barmej](https://youtube.com/playlist?list=PLkIliLHi5M4I91UOTadmzE9Arl6mJzoo4&si=khuXe_EVG3SqscU9)
+- [YouTube Playlist - TheNewBaghdad](https://youtube.com/playlist?list=PLkIliLHi5M4I91UOTadmzE9Arl6mJzoo4&si=khuXe_EVG3SqscU9)
 
 ### 🕸️ Web Pages
 
