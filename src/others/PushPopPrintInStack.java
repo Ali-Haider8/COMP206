@@ -8,10 +8,9 @@ Created by ali_h on 7/3/2026 at 2:41 PM
 import java.util.Scanner;
 
 public class PushPopPrintInStack {
-
+    static Scanner sc = new Scanner(System.in);
 
     static void push(int[] st, int[] top) {
-        Scanner sc = new Scanner(System.in);
         if (top[0] == 5) {
             System.out.println("overflow");
         } else {
@@ -27,6 +26,7 @@ public class PushPopPrintInStack {
         if (top[0] == -1) {
             System.out.println("underflow");
         } else {
+            @SuppressWarnings("unused")
             int item = st[top[0]];
             top[0]--;
         }
@@ -39,10 +39,9 @@ public class PushPopPrintInStack {
     }
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
 
         int[] st = new int[6];
-        int[] top = {-1};
+        int[] top = { -1 };
         int x;
 
         do {
@@ -52,7 +51,7 @@ public class PushPopPrintInStack {
             System.out.println("4-exit");
             System.out.print("enter your choice: ");
 
-            x = input.nextInt();
+            x = sc.nextInt();
 
             switch (x) {
                 case 1:
